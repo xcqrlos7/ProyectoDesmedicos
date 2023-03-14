@@ -1,0 +1,13 @@
+body
+{
+    background-image: url('./imagenes/doctor.jpg');
+}
+
+
+.title_card2
+
+{
+    text-align: center;
+    display: flex;
+    
+}
